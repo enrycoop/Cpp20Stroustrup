@@ -1,0 +1,3 @@
+/home/developer/Sources/Cpp20Stroustrup/cap1/var_initialization/cmake-build-debug/CMakeFiles/var_initialization.dir
+/home/developer/Sources/Cpp20Stroustrup/cap1/var_initialization/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/developer/Sources/Cpp20Stroustrup/cap1/var_initialization/cmake-build-debug/CMakeFiles/rebuild_cache.dir
