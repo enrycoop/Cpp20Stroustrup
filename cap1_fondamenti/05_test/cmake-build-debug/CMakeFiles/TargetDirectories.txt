@@ -1,0 +1,3 @@
+/home/enrico/CLionProjects/Cpp20Stroustrup/cap1_fondamenti/05_test/cmake-build-debug/CMakeFiles/05_test.dir
+/home/enrico/CLionProjects/Cpp20Stroustrup/cap1_fondamenti/05_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/enrico/CLionProjects/Cpp20Stroustrup/cap1_fondamenti/05_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir

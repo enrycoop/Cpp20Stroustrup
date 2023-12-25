@@ -5,6 +5,8 @@
  */
 
 #include <iostream>
+#include <vector>
+
 using namespace std;
 
 void for_classica() {
@@ -44,6 +46,40 @@ void increment() {
     }
 }
 
+// IL PUNTATORE NULL
+int count_x(const char* p, char x)
+    // conta il numero di occorrenze di x in p[]
+    // si presume che p punti a un array di char con termine zero (o a nulla)
+{
+    if (p==nullptr) {
+        return 0;
+    }
+    int count = 0;
+    for (; *p!=0; ++p) {  // E' possibile spostare il puntatore in modo che punti al successivo elemento di un array usando ++
+        if (*p==x) {
+            ++count;
+        }
+    }
+    return count;
+}
+
+int count_x_alt(const char* p, char x)
+// conta il numero di occorrenze di x in p[]
+// si presume che p punti a un array di char con termine zero (o a nulla)
+{
+    if (p==nullptr) {
+        return 0;
+    }
+    int count = 0;
+    while (*p) {
+        if (*p==x) {
+            ++count;
+        }
+        ++p;
+    }
+    return count;
+}
+
 int main() {
 
     {
@@ -64,7 +100,17 @@ int main() {
     //for_classica();
 
     //range_for();
-    increment();
+    //increment();
+    {
+        /*
+         * Quando non disponiamo di un oggetto a cui puntare, o se dobbiamo rappresentare il concetto di
+         * "nessun oggetto disponibile", passiamo al puntatore il valore nullptr. Esiste un solo nullptr condiviso da
+         * tutti i tipi di puntatori
+         */
+        double* pd = nullptr;
+        vector<double>* list = nullptr;
+        //int x = nullptr;  errore: nullptr e' un puntatore, non un intero.
+    }
 
     return 0;
 }
