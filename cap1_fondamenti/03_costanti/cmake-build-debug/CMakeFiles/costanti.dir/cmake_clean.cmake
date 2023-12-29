@@ -1,8 +1,10 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/costanti.dir/main.cpp.o"
-  "CMakeFiles/costanti.dir/main.cpp.o.d"
-  "costanti"
+  "CMakeFiles/costanti.dir/main.cpp.obj"
+  "CMakeFiles/costanti.dir/main.cpp.obj.d"
+  "costanti.exe"
+  "costanti.exe.manifest"
   "costanti.pdb"
+  "libcostanti.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

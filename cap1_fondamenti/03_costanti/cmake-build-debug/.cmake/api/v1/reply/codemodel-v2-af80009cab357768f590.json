@@ -6,7 +6,7 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.25"
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "costanti::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-costanti-Debug-8f70eded46548675dda4.json",
+					"jsonFile" : "target-costanti-Debug-1833c31bfeb3a7cf29b4.json",
 					"name" : "costanti",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/enrico/Sources/Cpp20Stroustrup/cap1_fondamenti/03_costanti/cmake-build-debug",
-		"source" : "/home/enrico/Sources/Cpp20Stroustrup/cap1_fondamenti/03_costanti"
+		"build" : "C:/Users/enric/Documents/Sources/Cpp20Stroustrup/cap1_fondamenti/03_costanti/cmake-build-debug",
+		"source" : "C:/Users/enric/Documents/Sources/Cpp20Stroustrup/cap1_fondamenti/03_costanti"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 4
+		"minor" : 6
 	}
 }
