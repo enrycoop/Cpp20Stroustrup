@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="02_asserzioni" targetName="02_asserzioni" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac7171c4-f886-4ff4-9f6a-fb1b7f611928" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Eccezioni/.idea/01_Eccezioni.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/02_asserzioni.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/Vector.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/Vector.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/Vector.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/Vector.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/.cmake/api/v1/reply/cache-v2-3d540d6aba71c17a6342.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-d3bcd3419d0d94ba7785.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-3f8b405af4ec6fe5a6e5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/.cmake/api/v1/reply/index-2023-12-28T17-52-54-0583.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/.cmake/api/v1/reply/target-01_compilazione_separata-Debug-27e3a7f2e8a4e01f1dde.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-a68c232ca45b00aa6bba.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/01_compilazione_separata" beforeDir="false" afterPath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/01_compilazione_separata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/CMakeFiles/01_compilazione_separata.dir/Vector.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/CMakeFiles/01_compilazione_separata.dir/Vector.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/CMakeFiles/01_compilazione_separata.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/CMakeFiles/01_compilazione_separata.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/CMakeFiles/3.25.1/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/CMakeFiles/3.25.1/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/CMakeFiles/3.25.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/CMakeFiles/3.25.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/CMakeFiles/3.25.1/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/CMakeFiles/3.25.1/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/CMakeFiles/3.25.1/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/CMakeFiles/3.25.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/CMakeFiles/3.25.1/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../cap03_moduli/01_compilazione_separata/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/05_associazione_strutturata/cmake-build-debug/.cmake/api/v1/reply/cache-v2-7f2ca3de88b03cad049e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/05_associazione_strutturata/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-2f7d49c8e68e39cb7c93.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/05_associazione_strutturata/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-bf7f8217af8945a786e0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/05_associazione_strutturata/cmake-build-debug/.cmake/api/v1/reply/index-2023-12-30T11-04-22-0757.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/05_associazione_strutturata/cmake-build-debug/.cmake/api/v1/reply/target-05_associazione_strutturata-Debug-48f4e3729489605fc33d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/05_associazione_strutturata/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-a68c232ca45b00aa6bba.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/05_associazione_strutturata/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../cap03_moduli/05_associazione_strutturata/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/05_associazione_strutturata/cmake-build-debug/CMakeFiles/05_associazione_strutturata.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/05_associazione_strutturata/cmake-build-debug/CMakeFiles/3.25.1/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/05_associazione_strutturata/cmake-build-debug/CMakeFiles/3.25.1/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/05_associazione_strutturata/cmake-build-debug/CMakeFiles/3.25.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/05_associazione_strutturata/cmake-build-debug/CMakeFiles/3.25.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/05_associazione_strutturata/cmake-build-debug/CMakeFiles/3.25.1/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/05_associazione_strutturata/cmake-build-debug/CMakeFiles/3.25.1/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/05_associazione_strutturata/cmake-build-debug/CMakeFiles/3.25.1/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/05_associazione_strutturata/cmake-build-debug/CMakeFiles/3.25.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/05_associazione_strutturata/cmake-build-debug/CMakeFiles/3.25.1/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/05_associazione_strutturata/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/05_associazione_strutturata/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../cap03_moduli/05_associazione_strutturata/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/05_associazione_strutturata/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../cap03_moduli/05_associazione_strutturata/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/05_associazione_strutturata/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../cap03_moduli/05_associazione_strutturata/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/05_associazione_strutturata/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/05_associazione_strutturata/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../cap03_moduli/05_associazione_strutturata/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap03_moduli/05_associazione_strutturata/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../cap03_moduli/05_associazione_strutturata/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/.cmake/api/v1/reply/cache-v2-610323b9192e876a77f8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-af80009cab357768f590.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/.cmake/api/v1/reply/target-costanti-Debug-1833c31bfeb3a7cf29b4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-b6cf95ce1695dde8a35d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/3.27.8/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/3.27.8/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/3.27.8/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/costanti.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/costanti.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/costanti.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/costanti.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/costanti.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/costanti.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/costanti.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/costanti.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/costanti.dir/linkLibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/costanti.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/costanti.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="3" />
+    <option name="productBranch" value="Nova" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2abZeEGoBctZuKbcmML0ONQTI9q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="02_asserzioni" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="02_asserzioni" TARGET_NAME="02_asserzioni" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="02_asserzioni" RUN_TARGET_NAME="02_asserzioni">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac7171c4-f886-4ff4-9f6a-fb1b7f611928" name="Changes" comment="" />
+      <created>1704589332002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704589332002</updated>
+      <workItem from="1704589333467" duration="1018000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

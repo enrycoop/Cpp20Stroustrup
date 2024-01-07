@@ -1,3 +1,0 @@
-C:/Users/enric/Documents/Sources/Cpp20Stroustrup/cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/costanti.dir
-C:/Users/enric/Documents/Sources/Cpp20Stroustrup/cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/enric/Documents/Sources/Cpp20Stroustrup/cap1_fondamenti/03_costanti/cmake-build-debug/CMakeFiles/rebuild_cache.dir

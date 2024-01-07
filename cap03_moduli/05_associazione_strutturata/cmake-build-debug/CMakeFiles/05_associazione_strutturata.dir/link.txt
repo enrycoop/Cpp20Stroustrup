@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/05_associazione_strutturata.dir/main.cpp.o -o 05_associazione_strutturata 
