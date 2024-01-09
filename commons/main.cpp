@@ -8,7 +8,7 @@
 
 
 int main() {
-    enrylib::vector v(10);
+    enrylib::vector v{1,2,3,4,5,6,7,8,9,10};
     enrylib::complex c{1,2};
 
     std::cout << "[ ";
