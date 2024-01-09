@@ -1,3 +1,0 @@
-C:/Users/enric/CLionProjects/Cpp20Stroustrup/cap2_tipi_definiti_dallutente/03_unioni/cmake-build-debug/CMakeFiles/03_unioni.dir
-C:/Users/enric/CLionProjects/Cpp20Stroustrup/cap2_tipi_definiti_dallutente/03_unioni/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/enric/CLionProjects/Cpp20Stroustrup/cap2_tipi_definiti_dallutente/03_unioni/cmake-build-debug/CMakeFiles/rebuild_cache.dir

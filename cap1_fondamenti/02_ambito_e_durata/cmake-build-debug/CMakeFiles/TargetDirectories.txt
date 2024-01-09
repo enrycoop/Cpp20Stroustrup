@@ -1,3 +1,0 @@
-/home/enrico/CLionProjects/Cpp20Stroustrup/cap1/ambito_e_durata/cmake-build-debug/CMakeFiles/ambito_e_durata.dir
-/home/enrico/CLionProjects/Cpp20Stroustrup/cap1/ambito_e_durata/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/enrico/CLionProjects/Cpp20Stroustrup/cap1/ambito_e_durata/cmake-build-debug/CMakeFiles/rebuild_cache.dir

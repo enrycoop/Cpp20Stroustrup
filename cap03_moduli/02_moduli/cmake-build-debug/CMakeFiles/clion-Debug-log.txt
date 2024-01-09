@@ -1,4 +1,0 @@
-/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/enrico/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/enrico/Sources/Cpp20Stroustrup/cap03_moduli/02_moduli -B /home/enrico/Sources/Cpp20Stroustrup/cap03_moduli/02_moduli/cmake-build-debug
--- Configuring done
--- Generating done
--- Build files have been written to: /home/enrico/Sources/Cpp20Stroustrup/cap03_moduli/02_moduli/cmake-build-debug

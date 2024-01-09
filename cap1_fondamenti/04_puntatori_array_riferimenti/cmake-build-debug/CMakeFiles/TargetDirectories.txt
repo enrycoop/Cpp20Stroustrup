@@ -1,3 +1,0 @@
-/home/enrico/CLionProjects/Cpp20Stroustrup/cap1_fondamenti/04_puntatori_array_riferimenti/cmake-build-debug/CMakeFiles/04_puntatori_array_riferimenti.dir
-/home/enrico/CLionProjects/Cpp20Stroustrup/cap1_fondamenti/04_puntatori_array_riferimenti/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/enrico/CLionProjects/Cpp20Stroustrup/cap1_fondamenti/04_puntatori_array_riferimenti/cmake-build-debug/CMakeFiles/rebuild_cache.dir
