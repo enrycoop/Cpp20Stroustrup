@@ -12,20 +12,21 @@ namespace enrylib {
         int sz;
     public:
         /////////////// CONSTRUCTORs /////////////////
-        vector(int s) : elem{new double[s]}, sz{s} // costruttore: acquisisce risorse
+        vector(int s) : elem{new double[s]}, sz{s}
         {
-            for (int i=0; i<s; ++i) // inizializza elementi
+            for (int i=0; i<s; ++i)
                 elem[i] = 0;
         }
-        vector(std::initializer_list<double>);    // inizializza con una lista di double
+        vector(std::initializer_list<double>);
 
         /////////////// DESTRUCTOR  /////////////////
-        ~vector() { delete[] elem; }              // distruttore: rilascia risorse
+        ~vector() { delete[] elem; }
 
         /////////////// OPERATORs ///////////////////
         double& operator[](int i);
-        int size() const noexcept { return sz; }
+        int size() const { return sz; }
         void push_back(double);
+        void print();
     };
 
     double& vector::operator[](int i) {
@@ -40,8 +41,28 @@ namespace enrylib {
             std::copy(lst.begin(), lst.end(), elem);
         }
 
-    void vector::push_back(double) {
+    void vector::push_back(double new_d) {
+        // alloco nuovo vettore
+        auto* _elem = new double[sz+1];
+        // copio vecchi dati
+        for (int i=0; i<sz; ++i)
+            _elem[i] = elem[i];
+        _elem[sz] = new_d;
 
+        // libero vecchie risorse
+        delete[] elem;
+
+        // aggiorno risorse
+        elem = _elem;
+        sz++;
+    }
+
+    void vector::print() {
+        std::cout << "[ ";
+        for (int i=0; i<sz; ++i) {
+            std::cout << elem[i] << ' ';
+        }
+        std::cout << "]" << std::endl;
     }
 }
 

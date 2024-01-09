@@ -8,12 +8,15 @@
 
 
 int main() {
-    enrylib::vector v{1,2,3,4,5,6,7,8,9,10};
+    enrylib::vector v(0);
     enrylib::complex c{1,2};
 
-    std::cout << "[ ";
-    for (int i=0; i<v.size(); ++i) {
-        std::cout << v[i] << ' ';
+    v.print();
+
+    for (int i=0; i<10; ++i) {
+        v.push_back(i);
+
+        v.print();
     }
-    std::cout << "]" << std::endl;
+
 }
