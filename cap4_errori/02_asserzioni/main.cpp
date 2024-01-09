@@ -62,6 +62,15 @@ private:
     int sz;
 };
 
+/*
+ * Questo controlla se un indice è nell'intervallo e intraprende l'azione predefinita, lanciando un eccezione
+ * altrimenti. La condizione che dovrebbe valere, viene passata a expect() come lambda. I test if constexpr vengono
+ * eseguiti in fase di compilazione, quindi viene eseguito al massimo un test in fase di esecuzione per ogni chiamata
+ * di expect(). Impostate action a Error_action::ignore e non verra' intrapresa alcuna azione ne' generato alcun codice
+ * per expect(). Per supportare la registrazione, e' necessario definire una tabella di error_code_name.
+ * Le informazioni di registrazione potrebbero essere migliorate utlilizzando source_location (cap 16).
+ */
+
 double& Vector::operator[](int i)
 {
     // Utilizzo asserzione
