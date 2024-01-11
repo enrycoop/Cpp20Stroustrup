@@ -2,25 +2,25 @@
 // Created by enrico on 1/9/24.
 //
 
-#ifndef COMMONS_ENRYLIB_VECTOR_H
-#define COMMONS_ENRYLIB_VECTOR_H
+#ifndef COMMONS_VECTOR_CUSTOM_H
+#define COMMONS_VECTOR_CUSTOM_H
 
-namespace enrylib {
+namespace stdlibfac {
 
-    class vector {
+    class Vector {
         double* elem;
         int sz;
     public:
         /////////////// CONSTRUCTORs /////////////////
-        vector(int s) : elem{new double[s]}, sz{s}
+        Vector(int s) : elem{new double[s]}, sz{s}
         {
             for (int i=0; i<s; ++i)
                 elem[i] = 0;
         }
-        vector(std::initializer_list<double>);
+        Vector(std::initializer_list<double>);
 
         /////////////// DESTRUCTOR  /////////////////
-        ~vector() { delete[] elem; }
+        ~Vector() { delete[] elem; }
 
         /////////////// OPERATORs ///////////////////
         double& operator[](int i);
@@ -29,19 +29,19 @@ namespace enrylib {
         void print();
     };
 
-    double& vector::operator[](int i) {
+    double& Vector::operator[](int i) {
         if (!(i>=0 && i<sz))
-            throw std::out_of_range{"enrylib::vector::operator[]"};
+            throw std::out_of_range{"stdlibfac::Vector::operator[]"};
         return elem[i];
     }
 
-    vector::vector(std::initializer_list<double> lst)
+    Vector::Vector(std::initializer_list<double> lst)
         :elem{new double[lst.size()]}, sz{static_cast<int>(lst.size())}
         {
             std::copy(lst.begin(), lst.end(), elem);
         }
 
-    void vector::push_back(double new_d) {
+    void Vector::push_back(double new_d) {
         // alloco nuovo vettore
         auto* _elem = new double[sz+1];
         // copio vecchi dati
@@ -57,7 +57,7 @@ namespace enrylib {
         sz++;
     }
 
-    void vector::print() {
+    void Vector::print() {
         std::cout << "[ ";
         for (int i=0; i<sz; ++i) {
             std::cout << elem[i] << ' ';
@@ -66,4 +66,4 @@ namespace enrylib {
     }
 }
 
-#endif //COMMONS_ENRYLIB_VECTOR_H
+#endif //COMMONS_VECTOR_CUSTOM_H

@@ -2,9 +2,9 @@
 // Created by enrico on 1/9/24.
 //
 
-#ifndef COMMONS_ENRYLIB_COMPLEX_H
-#define COMMONS_ENRYLIB_COMPLEX_H
-namespace enrylib {
+#ifndef COMMONS_COMPLEX_CUSTOM_H
+#define COMMONS_COMPLEX_CUSTOM_H
+namespace stdlibfac {
 
     class complex {
         double re, im;
@@ -68,4 +68,4 @@ namespace enrylib {
     bool operator!=(complex a, complex b) { return !(a == b); }
 }
 
-#endif //COMMONS_ENRYLIB_COMPLEX_H
+#endif //COMMONS_COMPLEX_CUSTOM_H

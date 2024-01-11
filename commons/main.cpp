@@ -2,14 +2,13 @@
 // Created by enrico on 1/9/24.
 //
 #include <iostream>
-#include "enrylib_vector.h"
-#include "enrylib_complex.h"
-
+#include "container_custom.h"
 
 
 int main() {
-    enrylib::vector v(0);
-    enrylib::complex c{1,2};
+    /*
+    stdlibfac::Vector v(0);
+    stdlibfac::complex c{1, 2};
 
     v.print();
 
@@ -18,5 +17,10 @@ int main() {
 
         v.print();
     }
+*/
+//    stdlibfac::Vector_container vc(100000);
+//
+//    stdlibfac::use(vc);
 
+    stdlibfac::h();
 }
